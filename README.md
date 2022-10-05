@@ -6,7 +6,7 @@ My name is Fabio, I am a software engineer with 20 years of experience in this a
 
 <img src="https://img.shields.io/badge/-CSharp-blue?logo=csharp" height="25"/>
 <img src="https://img.shields.io/badge/-DotNet-yellow?logo=dotnet" height="25"/>
-<img src="https://img.shields.io/badge/-AWS-green?logo=amazonaws" height="25"/>
+<img src="https://img.shields.io/badge/-AWS-orange?logo=amazonaws" height="25"/>
 
 </p>
 
