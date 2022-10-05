@@ -4,8 +4,7 @@ My name is Fabio, I am a software engineer with 20 years of experience in this a
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/dotnet-net%23239120.svg?color=5C2D91&style=for-the-badge&logo=.net&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-CSharp-blue?logo=csharp" height="25"/>
 
 </p>
 
