@@ -35,7 +35,7 @@ My name is Fabio, I am a software engineer with 20 years of experience in this a
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioono25&repo=design-patterns&theme=gotham)](https://github.com/fabioono25/design-patterns)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioono25&repo=projects_net&theme=gotham)](https://github.com/fabioono25/projects_net)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioono25&repo=algorithms&theme=gotham)](https://github.com/fabioono25/algorithms)
-
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioono25&repo=tools_plugins&theme=gotham)](https://github.com/fabioono25/tools_plugins)
 
  
 </p>
