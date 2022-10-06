@@ -35,9 +35,9 @@ My name is Fabio, I am a software engineer with 20 years of experience in this a
 
 📫💡🙏 Connect with me on LinkedIn or through my blog.
 
-### Recently published:
+### Main Publications:
 
-- 2022-05-03: [Dynamic Programming, Memoization, Fibonacci and more](https://www.mylifeindev.com/2022/05/dynamic-programming-memoization.html)
+- [42 Greates Software Professionals of All Times](https://www.mylifeindev.com/2020/06/39-greatest-software-professionals-of.html)
 
 <p align="center">
   
