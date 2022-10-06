@@ -28,6 +28,17 @@ My name is Fabio, I am a software engineer with 20 years of experience in this a
  </tr> 
 </table>
 
+### Connect
+
+<a href="https://www.linkedin.com/in/fabio-ono-tavoloni-47291a14/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://www.mylifeindev.com/"></a>
+
+📫💡🙏 Connect with me on LinkedIn or through my blog.
+
+### Recently published:
+
+- 2022-05-03: [Dynamic Programming, Memoization, Fibonacci and more](https://www.mylifeindev.com/2022/05/dynamic-programming-memoization.html)
+
 <p align="center">
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioono25&theme=gotham&layout=compact)](https://github.com/fabioono25/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioono25&theme=gotham&layout=compact&langs_count=10)](https://github.com/fabioono25/github-readme-stats)
