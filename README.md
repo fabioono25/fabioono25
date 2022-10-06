@@ -28,6 +28,16 @@ My name is Fabio, I am a software engineer with 20 years of experience in this a
  </tr> 
 </table>
 
+<p align="center">
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioono25&theme=gotham&layout=compact)](https://github.com/fabioono25/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioono25&theme=gotham&layout=compact&langs_count=10)](https://github.com/fabioono25/github-readme-stats)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioono25&repo=design-patterns&theme=gotham)](https://github.com/fabioono25/design-patterns)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioono25&repo=projects_net&theme=gotham)](https://github.com/fabioono25/projects_net)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioono25&repo=algorithms&theme=gotham)](https://github.com/fabioono25/algorithms)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioono25&repo=tools_plugins&theme=gotham)](https://github.com/fabioono25/tools_plugins)
+</p>
+
 ### Connect
 
 <a href="https://www.linkedin.com/in/fabio-ono-tavoloni-47291a14/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
@@ -38,17 +48,4 @@ My name is Fabio, I am a software engineer with 20 years of experience in this a
 ### Main Publications:
 
 - [42 Greates Software Professionals of All Times](https://www.mylifeindev.com/2020/06/39-greatest-software-professionals-of.html)
-
-<p align="center">
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioono25&theme=gotham&layout=compact)](https://github.com/fabioono25/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioono25&theme=gotham&layout=compact&langs_count=10)](https://github.com/fabioono25/github-readme-stats)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioono25&repo=design-patterns&theme=gotham)](https://github.com/fabioono25/design-patterns)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioono25&repo=projects_net&theme=gotham)](https://github.com/fabioono25/projects_net)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioono25&repo=algorithms&theme=gotham)](https://github.com/fabioono25/algorithms)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioono25&repo=tools_plugins&theme=gotham)](https://github.com/fabioono25/tools_plugins)
-
- 
-</p>
-
 
