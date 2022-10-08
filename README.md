@@ -1,6 +1,6 @@
 ### Hi there
 
-My name is Fabio, I am a software engineer with 20 years of experience in this amazing world of technology. 
+My name is Fabio, I am a software engineer with 20 years of experience in this amazing world of technology. Here is a resume of my activity:
 
 <p align="center">
 <table>
@@ -40,10 +40,9 @@ My name is Fabio, I am a software engineer with 20 years of experience in this a
 
 ### Connect
 
-<a href="https://www.linkedin.com/in/fabio-ono-tavoloni-47291a14/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://www.mylifeindev.com/"></a>
+<a href="https://www.linkedin.com/in/fabio-ono-tavoloni-47291a14/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
-📫💡🙏 Connect with me on LinkedIn or through my blog.
+📫💡🙏 Connect with me on <a href="https://www.linkedin.com/in/fabio-ono-tavoloni-47291a14/" target="_blank">LinkedIn</a> or through <a href="https://www.mylifeindev.com/" target="_blank">my blog.</a>
 
 ### Main Publications:
 
