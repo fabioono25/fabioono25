@@ -29,14 +29,15 @@ My name is Fabio, I am a software engineer with 20 years of experience in this a
 </table>
 
 <p align="center">
-  
+<!--  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioono25&theme=gotham&layout=compact)](https://github.com/fabioono25/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioono25&theme=gotham&layout=compact&langs_count=10)](https://github.com/fabioono25/github-readme-stats)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioono25&repo=design-patterns&theme=gotham)](https://github.com/fabioono25/design-patterns)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioono25&repo=projects_net&theme=gotham)](https://github.com/fabioono25/projects_net)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioono25&repo=algorithms&theme=gotham)](https://github.com/fabioono25/algorithms)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioono25&repo=tools_plugins&theme=gotham)](https://github.com/fabioono25/tools_plugins)
 </p>
+-->
+
 
 ### Connect
 
