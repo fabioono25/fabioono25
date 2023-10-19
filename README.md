@@ -17,7 +17,7 @@ My name is Fabio, I am a software engineer with 20 years of experience in this a
  <tr>   
     <td>Tools</td>
     <td>
-    <img src="https://img.shields.io/badge/-Docker-gray?logo=docker" height="25"/>&nbsp;<img src="https://img.shields.io/badge/-Kubernetes-white?logo=kubernetes" height="25"/>&nbsp;<img src="https://img.shields.io/badge/-GitHub-green?logo=github" height="25"/>
+    <img src="https://img.shields.io/badge/-Docker-gray?logo=docker" height="25"/>&nbsp;<img src="https://img.shields.io/badge/-Kubernetes-white?logo=kubernetes" height="25"/>&nbsp;<img src="https://img.shields.io/badge/-GitHub-green?logo=github" height="25"/>&nbsp;<img src="https://img.shields.io/badge/-VisualStudio-blue?logo=visualstudio" height="25" />
     </td>
  </tr>
  <tr>   
