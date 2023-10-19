@@ -6,7 +6,7 @@ My name is Fabio, I am a software engineer with 20 years of experience in this a
 <table>
  <tr>
     <td>Languages</td>
-    <td><img src="https://img.shields.io/badge/-CSharp-blue?logo=csharp" height="25"/>&nbsp;<img src="https://img.shields.io/badge/-JavaScript-green?logo=javascript" height="25"/>&nbsp;<img src="https://img.shields.io/badge/-TypeScript-darkblue?logo=typescript" height="25"/>&nbsp;<img src="https://img.shields.io/badge/-Python-yellow?logo=python" height="25"/>
+    <td><img src="https://img.shields.io/badge/-CSharp-blue?logo=csharp" height="25"/>&nbsp;<img src="https://img.shields.io/badge/-JavaScript-green?logo=javascript" height="25"/>&nbsp;<img src="https://img.shields.io/badge/-TypeScript-darkblue?logo=typescript" height="25"/>&nbsp;<img src="https://img.shields.io/badge/-Python-yellow?logo=python" height="25"/>&nbsp;<img src="https://img.shields.io/badge/-Rust-red?logo=rust" height="25"/>
     </td>
  <tr>   
     <td>Technologies</td>
