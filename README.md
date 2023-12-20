@@ -32,11 +32,26 @@ My name is Fabio, I am a software engineer with more tha 20 years of experience 
 ### List of Projects
 
 <p align="center">
-| Name                                                          | Description                                                                                                                                                                                               | Stack                                                               | Status                             |
-| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------- | ------------------------------------ |
-| [My Life in Dev (blog)](https://https://www.mylifeindev.com/) | Blog about technology in general                                                                                                                                                                          | Blogger                                                             | ![](https://geps.dev/progress/100) |
-| Summary Generator                                             | Application designed to provide summaries in an automatic way, depending on the occasion (e.g. a business meeting)<br />.<br />Integration with AI is provided as a way to automaticaly organize content. | .NET 8, no-code with Bubble, Minimal API, EF 6, OpenAI integration. | ![](https://geps.dev/progress/10)  |
-
+   <table>
+      <tr>
+         <th>Name</th>
+         <th>Description</th>
+         <th>Stack</th>
+         <th>Status</th>
+      </tr>
+      <tr>   
+         <td>[My Life in Dev (blog)](https://www.mylifeindev.com/)</td>
+         <td>Blog about technology in general</td>
+         <td>Google Blogger</td>
+         <td>![](https://geps.dev/progress/100)</td>
+      </tr> 
+      <tr>   
+         <td>Summary Generator</td>
+         <td>Application designed to provide summaries in an automatic way, depending on the occasion (e.g. a business meeting)<br />.<br />Integration with AI is provided as a way to automatically organize content.</td>
+         <td>.NET 8, no-code with Bubble, Minimal API, EF 6, OpenAI integration.</td>
+         <td>![](https://geps.dev/progress/10)</td>
+      </tr> 
+   </table>
 </p>
 
 ### Connect
