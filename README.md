@@ -40,7 +40,7 @@ My name is Fabio, I am a software engineer with more tha 20 years of experience 
          <th>Status</th>
       </tr>
       <tr>   
-         <td><a href="https://https://www.mylifeindev.com" target="_blank">My Life in Dev (blog)</a></td>
+         <td><a href="https://www.mylifeindev.com" target="_blank">My Life in Dev (blog)</a></td>
          <td>Blog about technology in general</td>
          <td>Google Blogger</td>
          <td><img src="https://geps.dev/progress/100" /></td>
