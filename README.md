@@ -2,7 +2,6 @@
 
 My name is Fabio, I am a software engineer with more tha 20 years of experience in this amazing world of technology. Here is a resume of my activity:
 
-<p align="center">
    <table>
    <tr>
       <td>Languages</td>
@@ -27,7 +26,6 @@ My name is Fabio, I am a software engineer with more tha 20 years of experience 
       </td>
    </tr> 
    </table>
-</p>
 
 ### List of Projects
 
