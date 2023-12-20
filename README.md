@@ -29,13 +29,11 @@ My name is Fabio, I am a software engineer with more tha 20 years of experience 
 
 ### List of Projects
 
-<p align="center">
 | Name                                                          | Description                                                                                                                                                                                               | Stack                                                               | Status                             |
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------- | ------------------------------------ |
 | [My Life in Dev (blog)](https://https://www.mylifeindev.com/) | Blog about technology in general                                                                                                                                                                          | Blogger                                                             | ![](https://geps.dev/progress/100) |
 | Summary Generator                                             | Application designed to provide summaries in an automatic way, depending on the occasion (e.g. a business meeting)<br />.<br />Integration with AI is provided as a way to automaticaly organize content. | .NET 8, no-code with Bubble, Minimal API, EF 6, OpenAI integration. | ![](https://geps.dev/progress/10)  |
 
-</p>
 
 ### Connect
 
