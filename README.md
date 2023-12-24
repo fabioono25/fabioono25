@@ -1,6 +1,6 @@
 ### Hi there
 
-My name is Fabio, I am a software engineer with decades of experience in this amazing world of technology. Here is a resume of my activity:
+Here is a resume of my activity:
 
 <p align="center">
    <table>
