@@ -45,12 +45,6 @@ Here is a resume of my activity:
          <td>Google Blogger</td>
          <td><img src="https://geps.dev/progress/100" /></td>
       </tr> 
-      <tr>   
-         <td>Summary Generator</td>
-         <td style="text-align: justify;">Application designed to provide summaries in an automatic way, depending on the occasion (e.g. a business meeting).<br/>Integration with AI is provided as a way to automatically organize content.</td>
-         <td>.NET 8, no-code (Bubble), Minimal API, EF 6, OpenAI integration.</td>
-         <td><img src="https://geps.dev/progress/10" /></td>
-      </tr> 
    </table>
 </p>
 
