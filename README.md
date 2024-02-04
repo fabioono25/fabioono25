@@ -50,7 +50,9 @@ Here is a resume of my activity:
 
 ### Connect
 
+📫💡🙏 Connect with me on 
 <a href="https://www.linkedin.com/in/fabio-ono-tavoloni-47291a14/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/fabio-ono-tavoloni-47291a14/" target="_blank"><img src="https://img.shields.io/badge/MyLifeInDev--_.svg?style=social" alt="MyLifeInDev"></a>
 
 📫💡🙏 Connect with me on <a href="https://www.linkedin.com/in/fabio-ono-tavoloni-47291a14/" target="_blank">LinkedIn</a> or through <a href="https://www.mylifeindev.com/" target="_blank">my blog.</a>
 
