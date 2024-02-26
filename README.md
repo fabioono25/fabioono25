@@ -21,6 +21,12 @@ Here is a resume of my activity:
       </td>
    </tr>
    <tr>   
+      <td>Libraries</td>
+      <td>
+      <img src="https://img.shields.io/badge/-React-blue?logo=react" height="25"/>
+      </td>
+   </tr>
+   <tr>   
       <td>Conceps</td>
       <td>
       <img src="https://img.shields.io/badge/-Microservices-lightgreen" height="25"/> <img src="https://img.shields.io/badge/-Distributed Systems-orange" height="25"/> <img src="https://img.shields.io/badge/-CQRS-grey" height="25"/> <img src="https://img.shields.io/badge/-SOLID-red" height="25"/> <img src="https://img.shields.io/badge/-Design Patterns-blue" height="25"/><img src="https://img.shields.io/badge/-System Design-red" height="25"/>
